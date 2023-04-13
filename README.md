@@ -12,4 +12,4 @@ Challenge developed in Stage 02 of the Explorer course.
 
 Page developed from scratch, using only HTML and CSS, following a design model created in Figma.
 
-(https://github.com/Rafaell-dev/Rocket_DE02/blob/main/images/final_page.png?raw=true)
+![Final page](https://github.com/Rafaell-dev/Rocket_DE02/blob/main/images/final_page.png)
